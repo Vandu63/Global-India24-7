@@ -50,6 +50,7 @@ mydjangoproject/
 ✔ Font Awesome Icons Support
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/your-repo-name.git
 
