@@ -106,6 +106,4 @@ Deployment on Cloud
 Admin Dashboard Enhancements
 
 👩‍💻 Author
-
-Your Name
 Vandana Yadav
